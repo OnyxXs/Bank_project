@@ -15,4 +15,4 @@ A Database manager developped with PhP
 #### Esteban
 - Github: [@EstebanDardillac](https://github.com/EstebanDardillac)
 #### Benjamin
-- Github: [@Jojo12369](https://github.com/Jojo12369)
+- Github: [@Benjamin](https://github.com/BenjaminHenryy)
