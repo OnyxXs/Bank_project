@@ -13,6 +13,6 @@ A Database manager developped with PhP
 #### Timéo
 - Github: [@OnyxXs](https://github.com/OnyxXs)
 #### Esteban
-- Github: [@Benjamin](https://github.com/Sambachpx)
+- Github: [@EstebanDardillac](https://github.com/EstebanDardillac)
 #### Benjamin
 - Github: [@Jojo12369](https://github.com/Jojo12369)
