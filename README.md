@@ -1,4 +1,4 @@
-# <p align="center">DB_Manager</p>
+# <p align="center">Bank_project</p>
   
 A Database manager developped with PhP
 
